@@ -1,3 +1,7 @@
+### description
+
+todo-list extendsion for chrome
+
 ### TODO
 
 - [x] 拖动任务边框样式优化
