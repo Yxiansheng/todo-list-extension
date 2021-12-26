@@ -1,0 +1,4 @@
+.wrapper-task:-moz-drag-over,
+.wrapper-task:-webkit-drag-over {
+  border: 1px solid red;
+}

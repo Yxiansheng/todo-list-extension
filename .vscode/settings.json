@@ -1,0 +1,5 @@
+{
+  "pathAlias.aliasMap": {
+    "@components": "${cwd}/src/components"
+  }
+}
