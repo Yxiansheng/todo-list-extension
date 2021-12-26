@@ -1,4 +1,4 @@
-### description
+### Description
 
 todo-list extendsion for chrome
 
